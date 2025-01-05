@@ -103,8 +103,6 @@ This lesson has no explicit practice exercises. At each step, use images of your
 
 ::::::::::::::::::
 
-## Challenge
-
 ## **Reading and Processing Images**
 <p style='text-align: justify;'>
 In biology, we often deal with images; for example, microscopy and different medical imaging modalities often output images and image data for analysis. In many cases, we wish to extract some quantitative information from these images. The focus of this lesson is to read and process images in Python. This will include:
